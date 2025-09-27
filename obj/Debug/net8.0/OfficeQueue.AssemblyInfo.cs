@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OfficeQueue")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d42a8e74fe62d767b6ac7625f1ce5357534d833a")]
 [assembly: System.Reflection.AssemblyProductAttribute("OfficeQueue")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OfficeQueue")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
