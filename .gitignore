@@ -22,4 +22,5 @@ packages/
 # Logs
 *.log
 
-# Others
+# App.Settings
+appsettings.json
