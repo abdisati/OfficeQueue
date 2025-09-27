@@ -1,4 +1,4 @@
-namespace OfficeQueueBot.Models;
+namespace OfficeQueue.Models;
 
 public class QueueEntry
 {
